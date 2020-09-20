@@ -1,0 +1,17 @@
+.mainfooter {
+  height: 330px;
+  margin-top: 50px;
+  padding-top: 50px;
+  background-color: #1c1c21;
+  color: white;
+}
+hr {
+  background-color: white;
+}
+
+.social-network {
+  font-size: 40px;
+}
+.btn-success {
+  margin-top: 10px;
+}

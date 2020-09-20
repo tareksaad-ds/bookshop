@@ -1,0 +1,43 @@
+.sub {
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+.sub span {
+  text-align: center;
+  font-family: "Lobster", cursive;
+  color: #bbb;
+}
+.home {
+  text-decoration: none;
+  color: Green;
+}
+.sub a:hover {
+  text-decoration: none;
+}
+.doll {
+  color: #f96e3f;
+  font-size: 25px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+.navy {
+  background-color: #ebefe1;
+  height: 120px;
+  padding-top: 30px;
+}
+.navbar {
+  padding: 0;
+}
+#btnGroupAddon {
+  background-color: white;
+  border: none;
+  color: #f96e3f;
+}
+
+#searchtool {
+  border: none;
+}
+.cart {
+  font-size: 40px;
+  color: #5e9f1d;
+}

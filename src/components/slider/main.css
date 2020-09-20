@@ -1,0 +1,36 @@
+img {
+  max-height: 550px !important;
+}
+#bt {
+  background-color: #5e9f1d;
+  color: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+}
+#bt:hover {
+  background-color: white;
+  color: #5e9f1d;
+  border: none;
+  padding: 15px;
+}
+.list {
+  margin-top: 50px;
+  padding-top: 20px;
+  margin-bottom: 40px;
+}
+
+#bttun {
+  color: white;
+  background-color: green;
+  border: green;
+  float: right;
+}
+#bttun:hover {
+  color: green;
+  background-color: white;
+  border: 1px solid green;
+  float: right;
+}
+#imge {
+  max-height: 340px !important;
+}
